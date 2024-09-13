@@ -1,8 +1,9 @@
-$\frac$
+# How to use Git
 
-:smile:
 
-$$$$
+
+
+
 
 
 
