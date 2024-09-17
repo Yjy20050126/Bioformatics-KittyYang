@@ -17,10 +17,6 @@
 4. Modeling
    - Probabilistic Model & Computational Algorithm
 
-```mermaid
-
-```
-
 
 
 <mark>Tips:<mark>
@@ -31,7 +27,7 @@
 
 #### Hypothesis Driven VS. Data Driven
 
-<img src="./Fig1.png" style="zoom:38%;" />
+<img src="./Fig1.png" style="zoom: 25%;" />
 
 #### What question could bioinformatics address?
 
