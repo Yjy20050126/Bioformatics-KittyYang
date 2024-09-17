@@ -24,7 +24,7 @@ Question-->Information-->Analysis-->Modeling
 
 
 
-==Tips:==
+<mark>Tips:<mark>
 
 ​	Algorithm uses specific codes to get a results, it is about how to actually realize the model.
 
@@ -36,7 +36,7 @@ Question-->Information-->Analysis-->Modeling
 
 #### What question could bioinformatics address?
 
-For example:
+*For example:*
 
 - What Is the Biological Basis of Consciousness?
 
@@ -67,9 +67,7 @@ Extending working field:
 
 #### Markdown learning
 
-$$
-y=\frac{\partial y}{\partial x}+x
-$$
+$$ y=\frac{\partial y}{\partial x}+x $$
 
 *KittyYang*
 
