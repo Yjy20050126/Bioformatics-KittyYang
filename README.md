@@ -1,6 +1,6 @@
 # README
 
-​	This repository is for course Bioinformatics, and is aimed at recording the learning process of student KittyYang.
+​	This repository is for course **Bioinformatics**, and is aimed at recording the learning process of student *Kitty Yang*.
 
 ## Lecture 1
 
@@ -17,13 +17,24 @@
 4. Modeling
    - Probabilistic Model & Computational Algorithm
 
-Tips:
+```mermaid
+graph LR
+Question-->Information-->Analysis-->Modeling
+```
+
+
+
+==Tips:==
 
 ​	Algorithm uses specific codes to get a results, it is about how to actually realize the model.
 
-​	Model is about a logic flow how we want to process and analyze the data, or about how to optimize the parameter.
+​	Model is about a logic flow integrated  with physical and biological knowledge or anything else to decide how we want to process and analyze the data.
 
-#### What question could it address?
+#### Hypothesis Driven VS. Data Driven
+
+<img src="./Fig1.png" style="zoom:38%;" />
+
+#### What question could bioinformatics address?
 
 For example:
 
@@ -54,9 +65,33 @@ Extending working field:
 - regression model
 - Computational Algorithms
 
+#### Markdown learning
+
+$$
+y=\frac{\partial y}{\partial x}+x
+$$
+
+*KittyYang*
+
+```python
+print "Hello!"
+```
+
+==important==
+
+#Title 1
+
+##Title 2
+
+###title 3
+
+####title 4
+
+……
+
 ### Study Plan
 
-In general, listening to the teacher's explanation of the theoretical knowledge and general framework of bioinformatics, mainly relying on tutorials to learn the basic skills of bioinformatics, and strive to gradually study supplementary materials during spare time in the holidays.
+​	In general, listening to the teacher's explanation of the theoretical knowledge and general framework of bioinformatics, mainly relying on tutorials to learn the basic skills of bioinformatics, and strive to gradually study supplementary materials during spare time in the holidays.
 
 |                  Personal Development Plan                   |
 | :----------------------------------------------------------: |
