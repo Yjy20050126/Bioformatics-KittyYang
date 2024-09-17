@@ -19,3 +19,17 @@ key:saved in "user/kitty/.ssh"
 - Tips: `git pull origin master`当遇到网页内容与本地不同步时
 - 改变分支：`git config --global init.defaultBranch main``git init -b main`
 - 本地操作main分支，先将库克隆到本地`git clone <URL> `
+
+# 创建新的分支
+
+本地创建新的文件夹，将repository clone到本地，
+
+`git init`
+
+`git add .`
+
+` git commit` 
+
+`git checkout -b <newbranch name>`
+
+`git push -u origin <newbranch name>`
