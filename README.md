@@ -104,4 +104,4 @@ Question-->Information-->Analysis-->Modeling
 
 ### Homework
 
-[how to use git](https://github.com/Yjy20050126/Bioinformatics-KittyYang/blob/main/HowtouseGit/HowtouseGit.md)
+[how to use git](https://github.com/Yjy20050126/Bioinformatics-KittyYang/blob/main/How%20to%20use%20Git)
