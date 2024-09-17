@@ -102,3 +102,7 @@ Question-->Information-->Analysis-->Modeling
 
 
 
+### Homework
+
+[how to use git](How to use Git/How to use Git.md)
+
