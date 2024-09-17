@@ -18,8 +18,7 @@
    - Probabilistic Model & Computational Algorithm
 
 ```mermaid
-graph LR
-Question-->Information-->Analysis-->Modeling
+
 ```
 
 
@@ -86,6 +85,13 @@ print "Hello!"
 ####title 4
 
 ……
+
+```mermaid
+graph LR
+Question-->Information-->Analysis-->Modeling
+```
+
+
 
 ### Study Plan
 
